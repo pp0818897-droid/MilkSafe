@@ -1,0 +1,40 @@
+# Flutter
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/coverage/
+**/.last_build_id
+
+# IDE
+**/.idea/
+**/.vscode/
+
+# Android
+**/android/.gradle/
+**/android/local.properties/
+
+# iOS
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/ephemeral/
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+
+# macOS
+**/macos/Pods/
+**/macos/Flutter/ephemeral/
+
+# Web
+**/node_modules/
+**/dist/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
