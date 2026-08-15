@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'FarmerRegistrationForm.dart';
 import 'Vet_Register.dart';
+import 'screens/welcome.dart';
 
 void main() {
   runApp(const MilkSafeApp());
@@ -19,7 +20,7 @@ class MilkSafeApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: const Color(0xFF2E7D32)),
         useMaterial3: true,
       ),
-      home: const RoleSelectionPage(),
+      home: const Welcome(),
     );
   }
 }
