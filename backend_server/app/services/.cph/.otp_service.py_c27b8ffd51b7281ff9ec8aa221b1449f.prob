@@ -1,0 +1,1 @@
+{"name":"Local: otp_service","url":"c:\\Users\\Asma Sayyed\\MilkSafe\\backend_server\\app\\services\\otp_service.py","tests":[{"id":1786780145922,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asma Sayyed\\MilkSafe\\backend_server\\app\\services\\otp_service.py","group":"local","local":true}
